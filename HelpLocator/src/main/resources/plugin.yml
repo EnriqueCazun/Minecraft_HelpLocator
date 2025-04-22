@@ -1,0 +1,11 @@
+name: HelpLocator
+version: 1.0
+main: com.helplocator.HelpLocator
+api-version: 1.20
+description: "Envía alertas con coordenadas al usar /ayuda"
+author: Enrique Cazun
+
+commands:
+  ayuda:
+    description: "Solicita ayuda mostrando tu ubicación"
+    usage: "/ayuda"

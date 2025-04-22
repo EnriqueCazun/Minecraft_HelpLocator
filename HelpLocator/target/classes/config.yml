@@ -1,0 +1,9 @@
+# Formato del mensaje (usa códigos de color §)
+message-format: "§6§l[ALERTA] §e{player} §7necesita ayuda en §a[{x}, {y}, {z}] §7(Mundo: §b{world}§7)"
+
+# Radio de difusión en bloques (0 = todos los jugadores)
+broadcast-range: 0
+
+# Opciones adicionales
+show-particles: true
+sound-effect: "ENTITY_PLAYER_LEVELUP"
